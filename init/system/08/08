@@ -1,0 +1,3 @@
+RSA keys will be found in following path once at least ONE ssh connexion has been undertaken, the file does not exist before then otherwise.
+
+~/.ssh/authorized_keys

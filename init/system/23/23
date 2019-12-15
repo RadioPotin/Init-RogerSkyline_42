@@ -1,0 +1,3 @@
+To log in a graphic session, enter login and password
+To log in an ssh session, use following command and then enter corresponding password:
+ssh login@ip

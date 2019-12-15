@@ -1,0 +1,4 @@
+Commandline whois displays all information stored in records found in Network Information Centers of host of a given domain.
+
+
+whois slash16.org | grep 'Name Server:' | awk '{print $3}'

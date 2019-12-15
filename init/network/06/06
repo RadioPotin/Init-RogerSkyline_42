@@ -1,0 +1,5 @@
+Most Unix OSes have this file
+
+/etc/resolv.conf
+
+which points to /var/run/resolv.conf

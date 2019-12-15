@@ -1,0 +1,6 @@
+To make any domain to point to a given adress, all that there is to do is modify the /etc/hosts file withe the following line:
+
+
+<IP to point to> <all the domains to point to given IP>
+for example:
+46.19.122.85	intra.42.fr

@@ -1,0 +1,5 @@
+Go in config directory /etc/
+and change hostname file
+Then reboot system
+
+/etc/hostname
